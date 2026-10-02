@@ -1,55 +1,74 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="TURKI HAMITHI — AI systems. Built to work. Agents, knowledge and infrastructure." width="100%" />
+</p>
+
 # TURKI HAMITHI
 
-### AI Systems & Automation · Linux Infrastructure · Operations
+**AI Systems & Automation Specialist · Building [NATHAR](https://natahr.com/)**
 
-I build AI-powered systems and the infrastructure that keeps them running. My work connects agents, knowledge retrieval, software integrations and automation with practical experience leading systems and operations in high-demand environments.
+I build AI agents and the systems around them: orchestration, knowledge retrieval, persistent memory, integrations and self-managed infrastructure. My work spans the agent layer and the services that keep it running.
 
-## NATHAR | نَظَر
+<p>
+  <a href="https://natahr.com/"><strong>Explore NATHAR ↗</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="#systems-i-build">Systems</a>&nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="#operations-experience">Experience</a>&nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="#بالعربية">العربية</a>
+</p>
 
-I build **NATHAR**, bringing together AI, research, knowledge and digital experiences.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>200+ modular skills</h3>
+Designed and deployed for AI agents in my independent systems work.
+</td>
+<td width="50%" valign="top">
+<h3>52 service centres</h3>
+Operations supervised across the Nusuk project, alongside technical and field coordination.
+</td>
+</tr>
+</table>
 
-My independent systems work includes:
-- A self-managed Linux platform with **200+ modular agent skills**
-- Agent orchestration, tool integrations and automated workflows
-- Knowledge systems using semantic search, vector retrieval and persistent memory
-- REST API, webhook and Telegram integrations
-- Containerized services, monitoring and backup automation
+## Building NATHAR
 
-**Explore:** [natahr.com](https://natahr.com/)
+I build **NATHAR | نَظَر**, bringing together AI, research, knowledge and digital experiences. My focus is on connecting useful capabilities into complete workflows, from retrieving information to coordinating tools and automating tasks.
 
-## Technical focus
+**[Visit natahr.com →](https://natahr.com/)**
 
-- **AI systems:** AI agents, orchestration, RAG, semantic search, vector databases and persistent memory
-- **Infrastructure:** Linux, Docker, Nginx, Redis, MySQL and Qdrant
-- **Integration & automation:** REST APIs, webhooks, Telegram Bot API, cron and workflow automation
-- **Operations:** Service continuity, control rooms, incident escalation, performance monitoring and process improvement
+## Systems I build
 
-## Selected experience
+| Area | Implementation focus |
+| :--- | :--- |
+| **Agents & orchestration** | Modular skills, tool integration and automated multi-step workflows |
+| **Retrieval & memory** | RAG, semantic search, vector retrieval, Qdrant and persistent memory |
+| **APIs & automation** | REST APIs, webhooks, Telegram Bot API and scheduled jobs |
+| **Self-managed platforms** | Linux, Docker, Nginx, Redis and MySQL, with monitoring and backup automation |
 
-**Independent AI Systems & Automation Specialist** · 2022–present  
-Designing and operating AI platforms, knowledge systems and integrated automation.
+## Operations experience
 
-**Systems, Platforms & Hajj Operations** · 2023–2026  
-Supporting high-demand service environments, including supervision across **52 service centres**, real-time technical issue resolution and coordination between technical and field teams.
+My systems work is backed by experience in **Hajj operations (2023–2026)**, control rooms, technical support and service coordination. That includes supervising operations across **52 service centres** in the Nusuk project, resolving technical issues and connecting technical teams with field operations.
 
-**Operations & Control Room Manager · Al-Qaid Transport** · 2025  
-Managing central control-room operations, real-time tracking, escalation and field coordination.
+<details>
+<summary><strong>Professional background & education</strong></summary>
+<br />
 
-**Administrative Organization Specialist · King Abdulaziz Hospital** · 2022–2023  
-Improving administrative workflows, service pathways and coordination across departments.
+| Period | Selected experience |
+| :--- | :--- |
+| **2022–present** | Independent AI Systems & Automation Specialist |
+| **2023–2026** | Systems, platforms and Hajj operations |
+| **2025** | Operations & Control Room Manager · Al-Qaid Transport |
+| **2022–2023** | Administrative Organization Specialist · King Abdulaziz Hospital |
+| **2021** | Technical Support Team Lead · Mobily |
 
-**Technical Support Team Lead · Mobily** · 2021  
-Leading technical support, handling system-related escalations and supporting service quality.
+**Bachelor of Islamic Financial Economics (Finance)** · Umm Al-Qura University, 2021
 
-## Financial markets
+My background also includes independent financial-market analysis: harmonic patterns, Fibonacci ratios, potential reversal zones and risk management using TradingView.
 
-My background also includes independent financial-market analysis, with a focus on harmonic patterns, Fibonacci ratios, potential reversal zones and risk management using TradingView.
-
-## Education
-
-**Bachelor of Islamic Financial Economics (Finance)**  
-Umm Al-Qura University · 2021
+</details>
 
 ## بالعربية
 
-أنا تركي، متخصص في أنظمة الذكاء الاصطناعي والأتمتة والبنية التحتية. أبني أنظمة تربط الوكلاء والأدوات والمعرفة بسير عمل عملي، مستندًا إلى خبرة في الأنظمة والمنصات وغرف التحكم والعمليات، إلى جانب تحليل الأسواق المالية.
+<div dir="rtl">
+
+أنا تركي، متخصص في أنظمة الذكاء الاصطناعي والأتمتة. أبني **NATHAR | نَظَر**، وأربط الوكلاء بالأدوات والمعرفة والذاكرة المستمرة، مع تشغيل البنية التقنية ذاتيًا. تجمع خبرتي بين بناء الأنظمة وعمليات الحج وغرف التحكم والإشراف على العمليات عبر **52 مركز خدمة** ضمن مشروع نسك.
+
+</div>
