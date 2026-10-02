@@ -9,7 +9,7 @@
 I build AI agents and the systems around them: orchestration, knowledge retrieval, persistent memory, integrations and self-managed infrastructure. My work spans the agent layer and the services that keep it running.
 
 <p>
-  <a href="https://natahr.com/"><strong>Explore NATHAR ↗</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://natahr.com/"><strong>Explore NATHAR</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
   <a href="#systems-i-build">Systems</a>&nbsp;&nbsp; · &nbsp;&nbsp;
   <a href="#operations-experience">Experience</a>&nbsp;&nbsp; · &nbsp;&nbsp;
   <a href="#بالعربية">العربية</a>
