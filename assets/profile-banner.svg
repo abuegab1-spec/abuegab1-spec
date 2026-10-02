@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">TURKI HAMITHI — AI systems. Built to work.</title>
+<desc id="desc">A dark navy identity banner with mint accents and an abstract connected-systems diagram. AI agents, knowledge systems and infrastructure.</desc>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8babb8" stroke-opacity=".055"/></pattern>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#87efcf"/><stop offset="1" stop-color="#48b6d3"/></linearGradient>
+</defs>
+<rect width="1280" height="400" rx="20" fill="#0b1420"/>
+<rect x="1" y="1" width="1278" height="398" rx="19" fill="url(#grid)" stroke="#253745"/>
+<path d="M56 62H96" stroke="#87efcf" stroke-width="4"/>
+<text x="114" y="71" fill="#c4d4de" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" letter-spacing="3">TURKI HAMITHI</text>
+<text x="56" y="179" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" letter-spacing="-3">AI systems.</text>
+<text x="56" y="265" fill="url(#accent)" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Built to work.</text>
+<text x="59" y="335" fill="#96aebd" font-family="Arial,Helvetica,sans-serif" font-size="23" letter-spacing="1">AGENTS / KNOWLEDGE / INFRASTRUCTURE</text>
+<g fill="none" stroke="#2c4555" stroke-width="2">
+<circle cx="1035" cy="199" r="132"/>
+<circle cx="1035" cy="199" r="94" stroke-dasharray="4 9"/>
+<path d="M794 105H906L993 178M795 294H902L993 222M1076 180L1163 105H1226M1076 219L1163 294H1226"/>
+<path d="M1035 39V156M1035 242V360"/>
+</g>
+<g fill="#0b1420" stroke="#507386" stroke-width="2">
+<rect x="769" y="90" width="30" height="30" rx="8"/>
+<rect x="769" y="279" width="30" height="30" rx="8"/>
+<rect x="1211" y="90" width="30" height="30" rx="8"/>
+<rect x="1211" y="279" width="30" height="30" rx="8"/>
+</g>
+<circle cx="1035" cy="199" r="51" fill="#112b34" stroke="#87efcf" stroke-width="2"/>
+<path d="M1014 211V186L1056 211V186" fill="none" stroke="#a4ffe4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#87efcf"><circle cx="1035" cy="67" r="5"/><circle cx="1035" cy="331" r="5"/><circle cx="919" cy="132" r="4"/><circle cx="1150" cy="266" r="4"/></g>
+</svg>
