@@ -30,7 +30,7 @@ Three live NATHAR experiences, built around research, interaction and a distinct
   <img src="assets/samaa-card.jpg" alt="السماء — NATHAR astronomy experience, with an ivory Arabic title against a field of stars" width="100%" />
 </a>
 
-### [01 · السماء / Samaa →](https://natahr.com/samaa/)
+### [01 · Samaa / السماء →](https://natahr.com/samaa/)
 **Astronomy as an interactive journey.** Twelve chapters exploring the universe and the limits of knowledge, with orbit and cosmic-expansion controls, linked sources and a motion toggle.
 
 <sub>HTML · CSS · JavaScript · Canvas starfield · Interactive models</sub>
@@ -41,7 +41,7 @@ Three live NATHAR experiences, built around research, interaction and a distinct
   <img src="assets/subat-card.jpg" alt="سبات — NATHAR sleep, dreams and memory experience in a warmly lit bedroom" width="100%" />
 </a>
 
-### [02 · سبات / Subat →](https://natahr.com/subat/)
+### [02 · Subat / سبات →](https://natahr.com/subat/)
 **Making invisible processes explorable.** A twelve-chapter journey through sleep, dreams and memory, with adjustable signal displays, sleep-stage and caffeine controls, and 33 cited sources.
 
 <sub>HTML · CSS · JavaScript · Canvas · Interactive scientific storytelling</sub>
