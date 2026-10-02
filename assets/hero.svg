@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">TURKI HAMITHI — Building connected intelligence</title>
+<desc id="desc">AI systems, creative technology, and self-managed infrastructure. An original orbital systems illustration.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071C23"/><stop offset="1" stop-color="#0C3035"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#DDF36B" stop-opacity=".18"/><stop offset="1" stop-color="#DDF36B" stop-opacity="0"/></radialGradient>
+ <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DCF168"/><stop offset="1" stop-color="#779B39"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#A8D3CD" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="1200" height="480" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="480" rx="20" fill="url(#grid)"/>
+<circle cx="966" cy="239" r="252" fill="url(#glow)"/>
+<path d="M60 66H94" stroke="#DDF36B" stroke-width="4"/>
+<text x="112" y="73" fill="#DDF36B" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" letter-spacing="3">AI SYSTEMS / CREATIVE TECHNOLOGY</text>
+<text x="56" y="183" fill="#F2F4E9" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="800" letter-spacing="-4">TURKI</text>
+<text x="54" y="274" fill="#F2F4E9" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="800" letter-spacing="-4">HAMITHI</text>
+<text x="60" y="342" fill="#DDF36B" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="500">Building connected intelligence.</text>
+<text x="60" y="422" fill="#9EBCB7" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2">AGENTS  ·  MEMORY  ·  LINUX  ·  NATHAR</text>
+<g fill="none" stroke="#8EAAA6" stroke-width="1" opacity=".45">
+ <circle cx="956" cy="225" r="164"/><circle cx="956" cy="225" r="118" stroke-dasharray="3 9"/>
+ <ellipse cx="956" cy="225" rx="190" ry="63" transform="rotate(-38 956 225)"/>
+ <ellipse cx="956" cy="225" rx="190" ry="63" transform="rotate(38 956 225)"/>
+ <path d="M746 225H1166M956 37V416" stroke-opacity=".5"/>
+</g>
+<g fill="none" stroke="#DDF36B" stroke-width="1.4">
+ <circle cx="956" cy="225" r="56"/>
+ <path d="M814 306H758V369H714M1086 124H1138V69H1170M956 388V435H1100" opacity=".6"/>
+</g>
+<circle cx="956" cy="225" r="44" fill="url(#orb)"/>
+<path d="M934 244V206L978 244V206" fill="none" stroke="#10302A" stroke-width="5" stroke-linejoin="round"/>
+<g fill="#DDF36B"><circle cx="828" cy="122" r="7"/><circle cx="1084" cy="328" r="7"/><circle cx="1119" cy="225" r="4"/><circle cx="956" cy="61" r="5"/><circle cx="816" cy="305" r="5"/></g>
+<g fill="#9EBCB7" font-family="monospace" font-size="16"><text x="777" y="108">01</text><text x="1095" y="353">02</text><text x="1107" y="440">03</text></g>
+</svg>
