@@ -5,26 +5,60 @@
 
 <p align="center">
   <a href="https://natahr.com/"><strong>NATHAR →</strong></a>&nbsp; · &nbsp;
-  <a href="#selected-work">Selected work</a>&nbsp; · &nbsp;
+  <a href="#open-source">Open source</a>&nbsp; · &nbsp;
+  <a href="#selected-work">Experiences</a>&nbsp; · &nbsp;
   <a href="#how-i-build">How I build</a>&nbsp; · &nbsp;
-  <a href="#whats-next">What's next</a>&nbsp; · &nbsp;
   <a href="#بالعربية">العربية</a>
 </p>
 
 ### I build the experience and the system behind it.
 
-I'm **Turki Hamithi**, an AI Systems & Automation Specialist building **[NATHAR | نَظَر](https://natahr.com/)**. My work connects AI agents, persistent memory and self-managed infrastructure, and turns research into interactive web experiences.
+I'm **Turki Hamithi**, building **[NATHAR | نَظَر](https://natahr.com/)**: open-source tools for AI agents and interactive web experiences. Explore the code in **Nathar Observe**, or step into the research-led experiences below.
 
-**My technical workbench**
+**What you'll find here**
 
-- **Agents & development** · Advanced Codex and OpenClaw workflows, modular skills, tool integration and multi-step automation
-- **Knowledge & memory** · RAG, semantic retrieval, Qdrant and persistent context
-- **Infrastructure & integration** · Linux, Docker, Nginx, Redis, MySQL, REST APIs, webhooks and Telegram bots
-- **Interactive web** · HTML, CSS, JavaScript, Canvas and scroll-driven storytelling
+- **Agent tooling** · Context retrieval, explainable skill routing and structured handoffs
+- **Open implementations** · Python, local-first search, optional Qdrant indexing and documented integration
+- **Interactive research** · Arabic experiences with linked sources, visual models and adjustable controls
+
+## Open source
+
+### [Nathar Observe →](https://github.com/abuegab1-spec/nathar-observe)
+
+**Relevant context. The right skills. A clear handoff.**
+
+A local-first CLI and Python library for AI agents. Observe finds relevant notes,
+routes a task to installed `SKILL.md` guides, and explains its choices in JSON.
+It works with any agent that can run a command or read the output.
+
+<a href="https://github.com/abuegab1-spec/nathar-observe">
+  <img src="https://raw.githubusercontent.com/abuegab1-spec/nathar-observe/main/docs/assets/observe-flow.svg" alt="Nathar Observe workflow: task and local sources → retrieve context, route skills, explain selections → JSON handoff for an agent." width="100%" />
+</a>
+
+- **Try it locally** · The included synthetic example needs no API key or model download
+- **Inspect the reasoning** · Source paths, matching details, excluded candidates and retrieval issues are part of the result
+- **Extend when needed** · Optional semantic indexing, explicit conversation exports and wikilink navigation
+
+<sub>Python 3.10+ · CLI + Python library · MIT · Package version 0.1.0</sub>
+
+**[Source & quick start](https://github.com/abuegab1-spec/nathar-observe#quick-start)** ·
+[Usage guide](https://github.com/abuegab1-spec/nathar-observe/blob/main/docs/usage.md) ·
+[Agent integration](https://github.com/abuegab1-spec/nathar-observe/blob/main/docs/integration.md) ·
+[الشرح العربي](https://github.com/abuegab1-spec/nathar-observe/blob/main/docs/README.ar.md)
+
+<details>
+<summary><strong>What the handoff means</strong></summary>
+
+Lexical search is the default and works offline after installation. Semantic
+search is optional and requires separate setup and indexing. Observe prepares
+context and routing; the executing agent still reads the sources, applies the
+guides and verifies the task result.
+
+</details>
 
 ## Selected work
 
-Three live NATHAR experiences, built around research, interaction and a distinct visual world. Each image opens the project.
+Three live NATHAR experiences, built around research, interaction and a distinct visual world. Open a project to explore its sources, interactive models and visual story.
 
 <a href="https://natahr.com/samaa/">
   <img src="assets/samaa-card.jpg" alt="السماء — NATHAR astronomy experience, with an ivory Arabic title against a field of stars" width="100%" />
@@ -75,36 +109,28 @@ Three live NATHAR experiences, built around research, interaction and a distinct
 3. **Test before rollout.** Isolate changes, trace failures through logs and turn bugs into reproducible reports.
 4. **Treat boundaries as part of the design.** Keep credentials and private infrastructure out of public artifacts. Prefer verified fixes and maintainable recovery paths over chains of workarounds.
 
-## What's next
+## Explore further
 
-I plan to share more of the useful work behind these systems: **scripts, tools and practical technical notes** for people building with AI agents and Linux.
-
-Planned directions: reusable automation, agent skills, memory/retrieval patterns and reproducible debugging examples. These are future releases; the live projects above are available now.
-
-<details>
-<summary><strong>Background that shapes the work</strong></summary>
-<br />
-
-My independent AI systems work includes **200+ modular agent skills**. My operations background includes Hajj platforms, control rooms, technical support and supervision across **52 service centres** in the Nusuk project.
-
-- **2022–present** · Independent AI Systems & Automation Specialist
-- **2023–2026** · Systems, platforms and Hajj operations
-- **2025** · Operations & Control Room Manager, Al-Qaid Transport
-- **2022–2023** · Administrative Organization Specialist, King Abdulaziz Hospital
-- **2021** · Technical Support Team Lead, Mobily
-
-**Bachelor of Islamic Financial Economics (Finance)** · Umm Al-Qura University, 2021
-
-</details>
+- **Build with the code** · [Nathar Observe](https://github.com/abuegab1-spec/nathar-observe) includes a runnable example, an agent skill and an integration contract
+- **Explore the experiences** · [NATHAR](https://natahr.com/) brings together interactive research, visual storytelling and practical tools
+- **Inspect the checks** · [Observe's test workflow](https://github.com/abuegab1-spec/nathar-observe/actions/workflows/tests.yml) runs tests, package builds and the quick-start example on Linux and Windows
 
 ## بالعربية
 
 <div dir="rtl">
 
-أنا **تركي**. أبني **[نَظَر | NATHAR](https://natahr.com/)**، وأعمل على أنظمة الوكلاء والأتمتة والذاكرة المستمرة والبنية التقنية على لينكس، باستخدام Codex وOpenClaw وأدوات الاسترجاع والتكامل.
+أنا **تركي**. أبني **[نَظَر | NATHAR](https://natahr.com/)**: أدوات مفتوحة لوكلاء الذكاء الاصطناعي، وتجارب معرفية تفاعلية بالعربية.
 
-تجمع أعمالي بين العمق التقني والتجربة البصرية: من **السماء** و**سبات** إلى **سفينة لا تغرق**. أبدأ من فهم المشكلة والتحقق من مصادرها، وأهتم بعزل التغييرات واختبارها، وتشخيص الأعطال، وبناء حلول قابلة للصيانة. والخطوة القادمة هي مشاركة سكريبتات وأدوات وشروحات عملية ليستفيد منها الآخرون.
+تجمع أعمالي بين الأدوات المفتوحة والتجارب البصرية:
+
+- **[Nathar Observe](https://github.com/abuegab1-spec/nathar-observe)**: أداة تسترجع السياق المحلي وتختار أدلة المهارات المناسبة للمهمة، وتوضح أسباب الاختيار في نتيجة JSON. يتوفر معها مثال للتجربة و[دليل عربي](https://github.com/abuegab1-spec/nathar-observe/blob/main/docs/README.ar.md)
+- **[السماء](https://natahr.com/samaa/)**: رحلة في علم الفلك وحدود المعرفة، مع نماذج تفاعلية ومصادر يمكن الرجوع إليها
+- **[سبات](https://natahr.com/subat/)**: استكشاف للنوم والأحلام والذاكرة
+- **[سفينة لا تغرق](https://natahr.com/unsinkable/)**: تجربة تفاعلية عن تيتانيك تجمع السرد التاريخي بالنموذج الهندسي
+
+أبدأ من فهم المشكلة والتحقق من مصادرها، وأهتم بعزل التغييرات واختبارها، وتشخيص الأعطال، وبناء حلول قابلة للصيانة. في Observe، تجهيز السياق خطوة تسبق التنفيذ؛ التحقق من المصادر والنتيجة يبقى جزءًا من عمل الوكيل.
 
 </div>
 
 <p align="center"><a href="https://natahr.com/"><strong>Explore NATHAR →</strong></a></p>
+
